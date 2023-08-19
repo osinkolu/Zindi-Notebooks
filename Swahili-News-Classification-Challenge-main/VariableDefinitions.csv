@@ -1,0 +1,4 @@
+Variable Definitions,
+id,Unique identifier for each news
+content,Full details about particular news
+Category,The specific category of a particular news

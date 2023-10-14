@@ -1,6 +1,9 @@
 # Zindi Competition Starter Notebooks and Solutions
 
-This repository contains starter notebooks and solutions for various Zindi machine learning competitions. The provided code and resources can serve as a learning resource for data science enthusiasts who want to understand different problem domains and learn about various machine learning techniques.
+This repository contains starter notebooks and solutions for various Zindi machine-learning competitions. The provided code and resources can serve as a learning resource for data science enthusiasts who want to understand different problem domains and learn about various machine learning techniques.
+
+## Inspiration
+I've been competing on Zindi for a couple of years now and I remember always looking forward to starter notebooks from Johnathan Whitaker, I learned a lot from his notebooks and it helped shaped my learning. I hope this repository will help a lot of newbies as well.
 
 ## Competitions Included
 

@@ -10,10 +10,12 @@ Link to the challenge: https://zindi.africa/competitions/ai4d-africas-anglophone
 
 ## The Notebooks
 
-These notebooks contain several ASR implementation strategies and approach to the challenge.
+These notebooks contain several ASR implementation strategies and approach to the challenge. I've ranked them in order of performance by Inference.
 
+* Facebook XLSR
 * Nvidia Nemo
 * OpenAI Whisper
-* Facebook XLSR
 * Facebook Seamless Communication
 
+
+For most of the notebooks, I assume your files are already in wav format.

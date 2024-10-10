@@ -1,4 +1,4 @@
-# 0TechCabal Ewè Audio Translation Challenge - Winning Solution 🏆
+# TechCabal Ewè Audio Translation Challenge - Solution 🏆
 
 Welcome to the repository containing my winning solution for the [TechCabal Ewè Audio Translation Challenge](https://zindi.africa/competitions/techcabal-ewe-audio-translation-challenge). This solution is broken down into two notebooks that explain each step of the process, from data preprocessing to model training, inference, and pseudo labeling.
 
@@ -13,7 +13,7 @@ In the first notebook, I focus on building the foundational model:
 - **Training**: Applying FastAI's `fit_one_cycle` method for efficient model training.
 - **Inference**: Generating predictions and creating a submission file for Zindi.
 
-[👉 View Notebook 1 here](notebook_1.ipynb)
+[👉 View Notebook 1 here](techcabal1.ipynb)
 
 ### 2. [Notebook 2: Pseudo Labels and Enhanced Training](techcabal2.ipynb)
 
@@ -23,7 +23,7 @@ In the second notebook, we improve the model using pseudo labels:
 - **Retraining**: Using both original and pseudo-labeled data to train a more robust model using FastAI's `fit_flat_cos`
 - **Efficiency**: Calculating the inference speed to ensure real-time application viability.
 
-[👉 View Notebook 2 here](notebook_2.ipynb)
+[👉 View Notebook 2 here](techcabal2.ipynb)
 
 ## 🔧 Key Features
 
